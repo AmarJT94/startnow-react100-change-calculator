@@ -1,0 +1,26 @@
+.textBold {
+    font-weight: bold;
+}
+
+.panel-success {
+    background-color: #ECFFCD;
+    margin-top: 10px;
+}
+
+.textGreen {
+    color: darkgreen;
+}
+
+.textWhite {
+    color: white;
+}
+
+.mainPanels {
+    width: 45%;
+    margin: 5px;
+}
+
+.shiftLeftRow {
+    margin-left: 5px;
+}
+
